@@ -1,0 +1,35 @@
+== Monday ==
+Breakfast: Poha, Tea
+Lunch: Dal,Jeera Rice
+Dinner: Paneer, Tandoori
+
+== Thursday ==
+Breakfast: Biryani
+Lunch: Matar Paneer, Roti
+Dinner: Pav Bhaji
+
+== Friday ==
+Breakfast: Upma, Chutney
+Lunch: Masoor Dal, Rice
+Dinner: Kadhi, Khichdi
+
+== Sunday ==
+Breakfast: Dosa, Sambhar
+Lunch: Dalbati,Gulabjamun
+Dinner: Shak, paratha
+
+== Wednesday ==
+Breakfast: Paratha, Curd
+Lunch: Chole, Rice
+Dinner: Mix Veg, Roti
+
+== Tuesday ==
+Breakfast: Idli, Sambhar
+Lunch: Rajma, Rice
+Dinner: Aloo Sabji, Roti
+
+== Saturday ==
+Breakfast: Thepla, Tea
+Lunch: Veg Pulao, Raita
+Dinner: Chana Masala, Roti
+
